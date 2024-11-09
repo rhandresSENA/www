@@ -1,0 +1,4 @@
+    public function __invoke()
+    {
+        return 'esto se ejecuta automaticamente cuando alguien cree una instancia de la clase UsersController';
+    }
